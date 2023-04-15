@@ -1,4 +1,3 @@
-import TodoEditor from './page/TodoEditor';
 import TodoWorking from './page/TodoWorking';
 import TodoDone from './page/TodoDone';
 import './App.css';
